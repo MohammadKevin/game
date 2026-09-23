@@ -18,9 +18,9 @@ A responsive, interactive browser game built with React, Next.js, and TypeScript
 ---
 
 ## ✨ Key Features
-- ⚡ **Smooth 60FPS canvas/DOM game loop rendering**: Smooth 60FPS canvas/DOM game loop rendering
-- ⚡ **Real-time score calculation and local high-score tracking**: Real-time score calculation and local high-score tracking
-- ⚡ **Mobile touch and desktop keyboard control bindings**: Mobile touch and desktop keyboard control bindings
+- Smooth 60FPS canvas/DOM game loop rendering
+- Real-time score calculation and local high-score tracking
+- Mobile touch and desktop keyboard control bindings
 
 ---
 
