@@ -1,34 +1,75 @@
-# Game Hub
+<div align="center">
 
-A collection of 4 fun mini-games built with Next.js, TypeScript, and Tailwind CSS. Fully responsive for mobile and desktop.
+# Interactive Web Game
 
-## Games
+<p>Browser-Based Interactive Game Experience in Next.js</p>
 
-- **Snake** - Classic snake game with increasing speed
-- **2048** - Slide and merge tiles to reach 2048
-- **Minesweeper** - Find safe cells without hitting mines (3 difficulty levels)
-- **Tetris** - Stack blocks and clear lines
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-blue?style=flat-square) ![React](https://img.shields.io/badge/React-blue?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square) ![Game Development](https://img.shields.io/badge/Game%20Development-blue?style=flat-square)
 
-## Features
+</div>
 
-- Responsive design (mobile + desktop)
-- Touch controls for mobile (swipe + on-screen buttons)
-- Keyboard controls for desktop
-- High scores saved to localStorage
-- Dark theme UI
+---
 
-## Getting Started
+## 📌 Overview
+A responsive, interactive browser game built with React, Next.js, and TypeScript exploring modern game loops, collision detection, and score tracking.
 
+---
+
+## ✨ Key Features
+- ⚡ **Smooth 60FPS canvas/DOM game loop rendering**: Smooth 60FPS canvas/DOM game loop rendering
+- ⚡ **Real-time score calculation and local high-score tracking**: Real-time score calculation and local high-score tracking
+- ⚡ **Mobile touch and desktop keyboard control bindings**: Mobile touch and desktop keyboard control bindings
+
+---
+
+## 🛠️ Tech Stack
+- **Framework**: Next.js
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+
+---
+
+## 📁 Project Structure
+```text
+game/
+├── app/
+├── components/
+└── lib/
+```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+Make sure you have the required runtimes and tools installed on your machine:
+- Node.js (v18+ recommended) / Appropriate runtime
+- Git
+
+### Installation & Local Setup
 ```bash
+git clone https://github.com/MohammadKevin/game.git
+cd game
 npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to play.
+---
 
-## Tech Stack
+## 👤 Author
+**Mohammad Kevin Arif Rudianto**
+- **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
+- **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
+- **LinkedIn:** [Mohammad Kevin](https://www.linkedin.com/in/mohammad-kevin-arif-rudianto-945733347)
+- **Email:** [kvn4.200581@gmail.com](mailto:kvn4.200581@gmail.com)
 
-- Next.js 16
-- React 19
-- TypeScript
-- Tailwind CSS 4
+---
+
+## 📄 License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+<div align="center">
+⭐️ If you found this repository useful, please consider giving it a star!
+</div>
