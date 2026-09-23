@@ -12,26 +12,26 @@
 
 ---
 
-## 📌 Overview
+## Overview
 A responsive, interactive browser game built with React, Next.js, and TypeScript exploring modern game loops, collision detection, and score tracking.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Smooth 60FPS canvas/DOM game loop rendering
 - Real-time score calculation and local high-score tracking
 - Mobile touch and desktop keyboard control bindings
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Framework**: Next.js
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 game/
 ├── app/
@@ -41,7 +41,7 @@ game/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -58,7 +58,7 @@ npm run dev
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -67,9 +67,9 @@ npm run dev
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
